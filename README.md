@@ -88,6 +88,7 @@
         <li>Frutos secos de la región andina</li>
     </ul>
 </section>
+![423247866_122126376032118556_5002009009449742056_n](https://github.com/2023-123456789/Chiflon-norte-o/assets/173382224/d534270e-1b96-41b4-b335-addfe081c386)
 
 <section id="contacto" class="contact">
     <h2>Contacto</h2>
